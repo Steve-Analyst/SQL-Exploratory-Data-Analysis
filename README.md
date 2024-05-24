@@ -3,7 +3,8 @@
 - This portfolio contains Exploratory Data Analysis project for SQL. We are going to analyse the layoffs data set that has already been cleaned in the previous project. 
 - We need to answer some few questions such as which year had most layoffs, which company, industry or country was affect the most and why so.
 - We will rank both companies and industries to see the company or the industry that had the highest number of layoffs in the year.
-- Finally, we will investigate what could have caused these layoffs and how we can reduce the number of layoffs.  
+- Finally, we will investigate what could have caused these layoffs and how we can reduce the number of layoffs.
+- **I have attached Exploratory Data Analysis SQL Workbench Results for reference purposes**
 
 ## Data Sources
 
