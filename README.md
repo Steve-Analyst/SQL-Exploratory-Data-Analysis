@@ -5,10 +5,6 @@
 - We will rank both companies and industries to see the company or the industry that had the highest number of layoffs in the year.
 - Finally, we will investigate what could have caused these layoffs and how we can reduce the number of layoffs.  
 
-## Table of Contents
-
-
-
 ## Data Sources
 
 layoffs: The primary dataset used for analyzing recent mass layoffs and discover useful insights and patterns. You can find this data at [kaggle](https://www.kaggle.com/).
@@ -210,9 +206,6 @@ SELECT *
 FROM Industry_Year_Rank
 WHERE ranking <= 5
 ```
-
-![image](https://github.com/stemla/SQL-Exploratory-Data-Analysis/assets/170471393/c3c4618c-e6ed-4582-8244-35cf496a522a)
-
 
 17.   Analysis
 
